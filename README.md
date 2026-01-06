@@ -1,4 +1,4 @@
-# This app is simply a time announcer
+# Chimy is simply a time announcer app.
 
 A Flutter app that announces the current time at configurable intervals using text-to-speech and system notifications.
 
